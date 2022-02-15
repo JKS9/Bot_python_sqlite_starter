@@ -19,7 +19,8 @@ Check that python >3.0 is properly installed:
 Check that 'pip', the python package manager is installed or another equivalent:
 
 - Pip [Tutorial](https://geekflare.com/fr/python-pip-installation/)
-  &nbsp;
+
+&nbsp;
 
 > ## **Step 3:**
 
