@@ -36,7 +36,7 @@ $ python3 -m venv env
 Install all packages contained in 'requirements.txt'
 
 ```
-$ python3 -m pip freeze > requirements.txt
+$ pip install -r .\requirements.txt
 ```
 
 &nbsp;
