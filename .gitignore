@@ -1,4 +1,5 @@
 images/
+env/
 *.pyc
 *.db
 .env
